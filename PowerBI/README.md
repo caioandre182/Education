@@ -7,7 +7,7 @@
   Sua fonte de dados é um arquivo Excel com dados coletados do sistema de vendas e CRM da empresa, com a as seguintes colunas:
 </p>
 
-<img src=''>
+<img src='https://s3.us-west-2.amazonaws.com/secure.notion-static.com/448a25a0-05d1-48e8-9e8a-6588da4d145e/tabela-estudo-caso-01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220627%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220627T200424Z&X-Amz-Expires=86400&X-Amz-Signature=be9ccf3a7dd5abd9a13ac01d42bbcb0eb800e9130cecf0332930f032230bc1f0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22tabela-estudo-caso-01.png%22&x-id=GetObject'>
 
 <p>
   Seu gerente precisa das seguintes informações:
